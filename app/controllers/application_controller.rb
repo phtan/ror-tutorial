@@ -6,6 +6,7 @@ class ApplicationController < ActionController::Base
 	end
 
 	def seeYou
-		render html: "esta luego"
+		render html: "see you maybe space cowboy (yes, a reference
+		to the cartoon 'Cowboy bebop')"
 	end
 end
