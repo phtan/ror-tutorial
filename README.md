@@ -1,24 +1,8 @@
-# README
+# Tutorial on 'Ruby on Rails'
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## "hello, world!"
 
-Things you may want to cover:
+This is the first application for the [Ruby on Rails Tutorial](http://www.railstutorial.org/) by [Michael Hartl](http://www.michaelhartl.com/). 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> "Hello, world, I'm a wild girl, I'm your ch-ch-ch-ch-ch cherry bomb" - based
+> off lyrics that can be heard in the movie 'The runaways', which is about the band (as in music) of the same name
