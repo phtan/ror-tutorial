@@ -53,6 +53,10 @@ group :development do
   gem 'spring-watcher-listen', '2.0.1'
 end
 
+group :production do
+  gem 'pg', '0.20.0' # Hartl claims SQLite isn't supported at Heroku
+end
+
 group :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '>= 2.15', '< 4.0'
