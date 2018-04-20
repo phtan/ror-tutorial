@@ -14,5 +14,5 @@ This is the first application for the [Ruby on Rails Tutorial](http://www.railst
 
 ## Links
 
-- Second application under the tutorial: 
+- The second application under the tutorial: 
 [the source-code (on Gitlab)](http://gitlab.com/phtan/toy-app)
