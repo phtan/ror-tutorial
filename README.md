@@ -11,3 +11,8 @@ This is the first application for the [Ruby on Rails Tutorial](http://www.railst
 3. Enter the directory-structure: `cd ror-tutorial`
 4. Start the app up: `rails server`
 0. Browse to the address **http://0.0.0.0:3000/**, in your chosen web-browser.
+
+## Links
+
+- Second application under the tutorial: 
+[the source-code (on Gitlab)](http://gitlab.com/phtan/toy-app)
